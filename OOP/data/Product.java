@@ -9,7 +9,7 @@ public abstract class Product {
         this.brand = brand;
         this.name = name;
     }
-
+ 
     // 抽象類別，CPU 和 Memory 各自實作 getPrice()，用多型實作不同邏輯
     public abstract int getPrice();
 
