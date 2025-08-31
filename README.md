@@ -7,9 +7,9 @@
 ## 📂 專案結構
 
 JAVA-TRAINING/
-├── chapter1/ # Java 基本語法（變數、流程控制、方法）
-├── chapter2/ # 物件導向 OOP（類別、繼承、多型）
-├── chapter3/ # 進階主題（封裝、抽象、介面）
+├── chapter1/   # Java 基本語法（變數、流程控制、方法）
+├── chapter2/   # 物件導向 OOP（類別、繼承、多型）
+└── chapter3/   # 進階主題（封裝、抽象、介面）
 
 ---
 
